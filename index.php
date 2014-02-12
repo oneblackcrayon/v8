@@ -30,7 +30,7 @@
 			</header>
 			<div class="entry">
 				<h1 class="title">Hello friend.</h1>
-				<p>One Black Crayon is a solo front-end web development, and email marketing & custom HTML email development shop. With experience in building custom static and WordPress based websites, One Black Crayon can help you with your projects, join your team in building your site, help you with that pesky email template, and even help you with that newly built website or web application that your expensive web development company just handed over to you.</p>
+				<p>One Black Crayon is a solo front-end web development, email marketing & HTML email development shop. With experience in building custom static and WordPress based websites, One Black Crayon can help you with your projects, join your team in building your site, help you with that pesky email template, and even help you with that newly built website or web application that your expensive web development company just handed over to you.</p>
 				<p>Over the past 15 years, I have helped clients big and small get the results they needed for the businesses. From tasks that you wouldn't believe you could outsource to working with design &amp; development firms; I put your needs first.</p>
 				<p>Since I am currently available for hire/consultations, <a id="example2" href="#modal">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
 			</div>
