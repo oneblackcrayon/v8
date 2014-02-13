@@ -31,15 +31,27 @@
 			<div class="entry">
 				<h1 class="title">Hello friend.</h1>
 				<p>One Black Crayon is a solo front-end web development, email marketing & HTML email development shop. With experience in building custom static and WordPress based websites, One Black Crayon can help you with your projects, join your team in building your site, help you with that pesky email template, and even help you with that newly built website or web application that your expensive web development company just handed over to you.</p>
-				<p>Over the past 15 years, I have helped clients big and small get the results they needed for the businesses. From tasks that you wouldn't believe you could outsource to working with design &amp; development firms; I put your needs first.</p>
-				<p>Since I am currently available for hire/consultations, <a id="example2" href="#modal">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
+				<p>Over the past 15 years, I have helped clients, who become friends, big and small get the results they needed for the businesses. From tasks that you wouldn't believe you could outsource to working with design &amp; development firms, I put your needs first.</p>
+				<p>Here is what some of my friends had to say:</p>
+				<div class="bq">
+					<blockquote>
+						<p><b>&#8220;</b>Few people truly know how to design and code emails that 1) accomplish objectives 2) work well on mobile devices and 3) make editing easy for the client on an ongoing basis. Frederick knows how to do all three, and he does them with impressive skill! Frederick has handled a number of projects and has always been great to work with, fast to respond, and completely reliable.</p>
+						<cite>&ndash; Timothy Haines, <i>TechBridge</i></cite>
+					</blockquote>
+
+					<blockquote>
+						<p><b>&#8220;</b>I have worked with Frederick on multiple different WordPress projects and have been very impressed with his knowledge, responsiveness, and passion for development. Frederick is fun and easy to work with and I would recommend him to anyone looking for an experienced and energetic Wordpress developer.</p>
+						<cite>&ndash; Devon Higgins, <i>Organik Consulting</i></cite>
+					</blockquote>
+				</div>
+				<p>Since I am currently available for hire/consultations, <a id="example2" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
 			</div>
 			<footer role="contentinfo">
 				<h1 class="copy">&copy; Copyright <?php echo date('Y');?>. Frederick Polk. All Rights Reserved.</span></h1>
 			</footer>
 		</article>
-		<div id="modal" style="display: none;" class="modal-example-content">
-			<div class="close" onclick="$.fn.custombox('close');">&times;</div>
+		<div id="contact" style="display: none;" class="modal-example-content">
+			<div class="close" onclick="$.fn.custombox('close');">Close &times;</div>
 			<iframe class="iframe" style="width:640px;height:644px;border:none;" allowTransparency="true" frameborder="0" scrolling="no" src="https://frederickpolk.wufoo.com/embed/z110k1cv0p0wkuu/"></iframe><div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a></div>
 		</div>
 		<script src="assets/jquery-1.10.2.js"></script>
