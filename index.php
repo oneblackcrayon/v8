@@ -44,7 +44,7 @@
 						<cite>&ndash; Devon Higgins, <i>Organik Consulting</i></cite>
 					</blockquote>
 				</div>
-				<p>Since I am currently available for hire/consultations, <a id="example2" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
+				<p>Since I am <em>currently available</em> for hire, <a id="example2" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
 			</div>
 			<footer role="contentinfo">
 				<h1 class="copy">&copy; Copyright <?php echo date('Y');?>. Frederick Polk. All Rights Reserved.</span></h1>
