@@ -6,7 +6,7 @@
 		<meta name="robots" content="index,nofollow">
 		<meta name="author" content="Frederick Polk">
 		<meta name="description" content="One Black Crayon is a solo web studio that makes websites, crafts HTML emails, and helps with internet presences.">
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="assets/style.css">
 		<link rel="stylesheet" href="assets/jquery.custombox.css">
 		<script src="assets/modernizr.js"></script>
 		<!-- make sure your google analytics and other analytics are up to date with correct code -->
@@ -23,7 +23,7 @@
 		<article role="main">
 			<header role="banner">
 				<div class="logo">
-					<img src="logo.svg" alt="Logo">
+					<img src="assets/logo.svg" alt="Logo">
 				</div>
 				<h1 class="intro">One Black Crayon</h1>
 				<p class="summary">Makes websites, crafts HTML email, and helps with internet presences.</p>
@@ -44,10 +44,10 @@
 						<cite>&ndash; Devon Higgins, <i>Organik Consulting</i></cite>
 					</blockquote>
 				</div>
-				<p>Since I am <em>currently available</em> for hire, <a id="example2" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
+				<p>Since I am <em>currently available</em> for hire, <a id="wufoo" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
 			</div>
 			<footer role="contentinfo">
-				<h1 class="copy">&copy; Copyright <?php echo date('Y');?>. Frederick Polk. All Rights Reserved.</span></h1>
+				<h1 class="copy">&copy; Copyright <?php echo date('Y');?>. Frederick Polk. All Rights Reserved.<span><a style="float: right;" class="grey" href="work.php">Work</a></span></h1>
 			</footer>
 		</article>
 		<div id="contact" style="display: none;" class="modal-example-content">
@@ -58,7 +58,7 @@
 		<script src="assets/jquery.custombox.js"></script>
 		<script>
 		$(function () {
-			$('#example2').on('click', function ( e ) {
+			$('#wufoo').on('click', function ( e ) {
 				$.fn.custombox( this, {
 					responsive: true,
 					effect: 'fadein',
