@@ -176,8 +176,8 @@ Licensed under the Creative Commons Attribution 2.5 License - http://creativecom
         if (_this.options.fitImagesInViewport) {
           windowWidth = $(window).width();
           windowHeight = $(window).height();
-          maxImageWidth = windowWidth - _this.containerLeftPadding - _this.containerRightPadding - 20;
-          maxImageHeight = windowHeight - _this.containerTopPadding - _this.containerBottomPadding - 110;
+          //maxImageWidth = windowWidth - _this.containerLeftPadding - _this.containerRightPadding - 20;
+          //maxImageHeight = windowHeight - _this.containerTopPadding - _this.containerBottomPadding - 110;
           if ((preloader.width > maxImageWidth) || (preloader.height > maxImageHeight)) {
             if ((preloader.width / maxImageWidth) > (preloader.height / maxImageHeight)) {
               imageWidth = maxImageWidth;
