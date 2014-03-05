@@ -67,10 +67,29 @@
 						<cite>&ndash; Devon Higgins, <i>Organik Consulting</i></cite>
 					</blockquote>
 				</div>
-				<p>Since I am <em>currently available</em> for hire, <a id="wufoo" href="#contact">we should talk</a> about how <b>One Black Crayon</b> can help you with projects.</p>
+				<p>Since I am <em>currently available</em> for hire, we should talk about how <b>One Black Crayon</b> can help you with projects.</p>
 			</section>
 			<div id="contact">
-				<iframe allowTransparency="true" frameborder="0" scrolling="no" src="https://frederickpolk.wufoo.com/embed/z110k1cv0p0wkuu/"></iframe><div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a></div>
+				
+<div id="wufoo-z110k1cv0p0wkuu"></div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;visibility:hidden;">HTML Forms powered by <a href="http://www.wufoo.com" >Wufoo</a></div>
+<script type="text/javascript">var z110k1cv0p0wkuu;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'frederickpolk', 
+'formHash':'z110k1cv0p0wkuu', 
+'autoResize':true,
+'height':'521',
+'async':true,
+'host':'wufoo.com',
+'header':'hide', 
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z110k1cv0p0wkuu = new WufooForm();z110k1cv0p0wkuu.initialize(options);z110k1cv0p0wkuu.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+				
 			</div>
 			<footer role="contentinfo">
 				<h1 class="copy">&copy; Copyright <?php echo date('Y');?>. Frederick Polk. All Rights Reserved.</h1>
